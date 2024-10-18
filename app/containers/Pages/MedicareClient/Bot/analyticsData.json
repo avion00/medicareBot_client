@@ -1,0 +1,25 @@
+{
+    "topQueries": [
+      "How can I reset my password?",
+      "What services do you offer?",
+      "Can I schedule an appointment?",
+      "How do I contact support?",
+      "What are your payment options?"
+    ],
+    "performanceData": {
+      "labels": [
+        "Week 1",
+        "Week 2",
+        "Week 3",
+        "Week 4",
+        "Week 5",
+        "Week 6",
+        "Week 7",
+        "Week 8",
+        "Week 9",
+        "Week 10"
+      ],
+      "scores": [95, 90, 85, 92, 88, 91, 94, 97, 89, 93]
+    }
+  }
+  

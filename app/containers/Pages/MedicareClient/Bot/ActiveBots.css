@@ -1,0 +1,27 @@
+.main.active-bots.container .bot-actions button {
+  background-color: rgba(2, 2, 199, 0.721);
+  transition: background-color 0.3s, transform 0.2s;
+}
+  
+.main.active-bots.container  .bot-actions button:hover {
+  background-color: rgba(5, 5, 100, 1);
+  transform: translateY(-2px); 
+}
+
+.main.active-bots.container  .status.active {
+  color: green; 
+}
+
+.main.active-bots.container   .status.inactive {
+  color: red;
+}
+
+.main.active-bots.container   .view-all-btn {
+  background-color: rgba(0, 100, 250, .5);
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.main.active-bots.container   .view-all-btn:hover {
+  background-color: rgb(1, 80, 1, 1); 
+  transform: translateY(2px);
+}

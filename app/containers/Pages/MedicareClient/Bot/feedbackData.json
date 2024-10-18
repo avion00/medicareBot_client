@@ -1,0 +1,15 @@
+{
+    "recentFeedback": [
+      { "text": "The bot was very helpful!", "user": "User A" },
+      { "text": "Responses are too slow.", "user": "User B" },
+      { "text": "Great service!", "user": "User C" },
+      { "text": "Needs more language support.", "user": "User D" },
+      { "text": "Very intuitive!", "user": "User E" }
+    ],
+    "allFeedback": [
+      { "text": "User F's feedback...", "user": "User F" },
+      { "text": "User G's feedback...", "user": "User G" },
+      { "text": "User H's feedback...", "user": "User H" }
+    ]
+  }
+  
